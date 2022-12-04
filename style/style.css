@@ -15,16 +15,29 @@
 
 .btn {
     padding: 12px 28px;
-    background: #5C62EC;;
+    background: #5C62EC;
+}
+.project__title {
+    font-family: 'DM Sans';
+    color: #5C62EC;
+    letter-spacing: -0.5px;
 }
 
-section {
-    
+h1 {
+    font-family: 'DM Sans';
+    line-height: 140%;
+    letter-spacing: -0.5px;
 }
+h2 {
+    line-height: 140%;
+    letter-spacing: -0.5px;
+}
+
 img {
     width: 100%;
     object-fit: cover;
 }
+
 footer {
     background: #171718;
 }
