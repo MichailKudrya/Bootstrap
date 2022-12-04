@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.home {
+    background: #171718;
+    height: 100vh;
+}
+
+.miku {
+    color: #5C62EC;
+}
+
+.btn {
+    padding: 12px 28px;
+    background: #5C62EC;;
+}
+
+section {
+    
+}
+img {
+    width: 100%;
+    object-fit: cover;
+}
+footer {
+    background: #171718;
+}
